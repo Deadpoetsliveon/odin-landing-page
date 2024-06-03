@@ -46,6 +46,9 @@ button.first {
     font-weight: bolder;
     font-size: 18px;
 }
+button {
+    cursor: pointer;
+}
 .header {
     display: flex;
     justify-content: space-between;
